@@ -76,9 +76,19 @@ defaults:
       path: archive/index.md
     values:
       menu: true
+      order: 4
+  - scope:
+      path: editors/index.md
+    values:
+      menu: true
+      order: 3
+  - scope:
+      path: apps/index.md
+    values:
+      menu: true
       order: 2
-      
 
+      
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
   - scope:
