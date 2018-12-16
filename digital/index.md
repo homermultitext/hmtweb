@@ -4,7 +4,7 @@ title: Digital publications
 ---
 
 
-## Digital editions
+## Manuscript editions
 
 The Homer Multitext project publishes its  digital editorial work in three forms.  In descending order of priority, they are:
 
