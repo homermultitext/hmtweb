@@ -5,7 +5,7 @@ layout: page
 
 Manuscripts we are currently editing:
 
--  Venetus A
+-  [Venetus A](venetusA)
 -  Venetus B
 -  Marciana 841
 -  Escorial Y.1.1

@@ -1,7 +1,9 @@
 # Config
-url:                   http://www.homermultitext.org
+# url:                   http://www.homermultitext.org
+url:                   http://shotholycross.edu
 
-baseurl:               ''
+#baseurl:               ''
+baseurl:               "/hmt-sample"
 
 lang:                  en
 
@@ -26,7 +28,7 @@ author:
   #twitter:             neelsmithhc
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:          © 2018
+copyright:          website © 2018, the Homer Multitext project
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
