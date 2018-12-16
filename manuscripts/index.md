@@ -3,4 +3,14 @@ title:  Manuscripts
 layout: page
 ---
 
-The story of our MSS ...  
+Manuscripts we are currently editing:
+
+-  Venetus A
+-  Venetus B
+-  Marciana 841
+-  Escorial Y.1.1
+-  Escorial Ω.1.12
+-  Genavensis 44
+
+
+In addition, we are currently editing some well illustrated papyri.
