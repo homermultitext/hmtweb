@@ -1,9 +1,9 @@
 # Config
-# url:                   http://www.homermultitext.org
-url:                   http://shotholycross.edu
+url:                   http://www.homermultitext.org
+#url:                   http://shotholycross.edu
 
-#baseurl:               ''
-baseurl:               "/hmt-sample"
+baseurl:               ''
+#baseurl:               "/hmt-sample"
 
 lang:                  en
 
