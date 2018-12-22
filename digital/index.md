@@ -11,6 +11,8 @@ The Homer Multitext project publishes its  digital editorial work in three forms
 1.  *Downloadable data sets* in the plain-text Cite Exchange (CEX) format.  These are always available from the `releases-cex` directory of our archival repository on github, <https://github.com/homermultitext/hmt-archive>.
 2.  *A network service*.  We serve a current published release of HMT data using [CITE Services](https://github.com/cite-architecture/scs-akka).
 3.  *End-user applications*.
+    -  [Fascimile editions](../facsimiles/)
+    -  [Facsimile index](http://www.homermultitext.org/facsimile/index.html): navigate facsimile editions by *Iliad* reference
     -  An [image citation](http://www.homermultitext.org/ict2/) tool.
     - [hmt-digital](http://www.homermultitext.org/hmt-digital/), an installation of the [generic CITE-App](https://github.com/cite-architecture/cite-app) configured to talk to the HMT network service.
 
