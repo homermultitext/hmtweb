@@ -1,14 +1,14 @@
 # Config
-# url:                   http://www.homermultitext.org
-#baseurl:               ''
+url:                   http://www.homermultitext.org
+baseurl:               ''
 
 
 #url:                   http://shot.holycross.edu
 #baseurl:               "/hmt-sample"
 
 
-url:                   http://beta.hpcc.uh.edu
-baseurl: "/hmt"
+#url:                   http://beta.hpcc.uh.edu
+#baseurl: "/hmt"
 
 
 
