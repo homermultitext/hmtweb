@@ -1,9 +1,11 @@
-# hmtweb
+# `hmtweb`
 
 
 Jekyll web site for www.homermultitext.org using [Hydejack](https://hydejack.com/docs/) theme.
 
-Quick start: `bundle install`, then:
+
+
+Quick start: within the `jekyll` directory, run `bundle install`, then:
 
 -  to run locally, `bundle exec jekyll run --watch`
 -  to build, `bundle exec jekyll build`
