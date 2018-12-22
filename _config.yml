@@ -1,9 +1,16 @@
 # Config
-url:                   http://www.homermultitext.org
-#url:                   http://shot.holycross.edu
+# url:                   http://www.homermultitext.org
+#baseurl:               ''
 
-baseurl:               ''
+
+#url:                   http://shot.holycross.edu
 #baseurl:               "/hmt-sample"
+
+
+url:                   http://beta.hpcc.uh.edu
+baseurl: "/hmt"
+
+
 
 lang:                  en
 
