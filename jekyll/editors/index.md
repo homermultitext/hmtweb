@@ -3,4 +3,19 @@ title: For editors
 layout: page
 ---
 
-Info for editors and contributors will gradually appear.  We will be transferring from our github web site adding all of the documentation, "how-to" pages, and information on current status of who's doing what to this section of [http://www.homermultitext.org](http://www.homermultitext.org).
+We are currently transferring material from our github web site to this section of [http://www.homermultitext.org](http://www.homermultitext.org).
+
+
+## Principles and practice
+
+
+
+-   [Editorial principles](hmt-editing-principles/).
+-   [Editorial practices](hmt-editors-guide/) following these principles
+-   [A code library](hmt-textmodel/) in  Scala modeling these principles
+
+
+## Documentation
+
+
+- [documentation](docs/)
