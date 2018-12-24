@@ -8,7 +8,7 @@ Manuscripts we are currently editing:
 -  [Venetus A](venetusA)
 -  [Venetus B](venetusB)
 -  Marciana 841
--  Escorial Y.1.1
+-  [Escorial Y.1.1](upsilon-1-1)
 -  Escorial Ω.1.12
 -  Genavensis 44
 

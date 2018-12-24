@@ -9,6 +9,11 @@ The manuscript Marcianus Graecus Z. 454 (= 822), known to Homeric scholars as th
 - [Dué, C. and M. Ebbott. *An introduction to the Homer Multitext edition of the Venetus A manuscript of the* Iliad. The Homer Multitext, first published 2014](VenA-Introduction-2014).
 
 
+## Downloadable images
+
+[Venetus A images](http://www.homermultitext.org/hmt-image-archive/venetus-a)
+
+
 ## Links
 
 -  [Imaging the *Iliad*: A Digital Renaissance](http://www.youtube.com/watch?v=ri6X1Dz4Ycg&feature=kp): a documentary about the process of photographing the Venetus A manuscript.
