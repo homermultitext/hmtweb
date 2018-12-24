@@ -1,6 +1,6 @@
 ---
 layout: list
 title:  Manuscripts
-slug:   manuscripts
+slug:   mss
 description: Manuscripts
 ---
