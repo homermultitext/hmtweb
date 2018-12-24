@@ -1,5 +1,5 @@
 ---
-title: For editors
+title: Editing the HMT
 layout: page
 ---
 
