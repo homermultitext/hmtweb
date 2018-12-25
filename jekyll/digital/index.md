@@ -678,8 +678,8 @@ title: Digital publications
 
 
 
-- [hmt-digital](http://www.homermultitext.org/hmt-digital/), an installation of the [generic CITE-App](https://github.com/cite-architecture/cite-app) you can use to query and navigate material available from the HMT network service (below).
--  An [image citation](http://www.homermultitext.org/ict2/) tool.
+- **[hmt-digital](http://www.homermultitext.org/hmt-digital/)**: an installation of the [generic CITE-App](https://github.com/cite-architecture/cite-app) you can use to query and navigate material available from the HMT network service (below).
+-  An **[image citation tool](http://www.homermultitext.org/ict2/)**.
 
 ### A network service
 
