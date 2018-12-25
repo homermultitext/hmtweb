@@ -7,13 +7,13 @@ title: Digital publications
 
 
 
--  Fascimile editions:   browse current editions of Venetus A *Iliad* and *scholia* alongside linked images.
+-  **Fascimile editions**:   browse current editions of Venetus A *Iliad* and *scholia* alongside linked images.
     -  [browse by *Iliad* reference](http://www.homermultitext.org/facsimile/index.html)
     - browse by page reference <select name='x-menu' onfocus="this.selectedIndex = 0" onchange='location = this.options[this.selectedIndex].value;'>
   <option value="" style="display: none">Select  a page</option>
-<option value='http://www.homermultitext.org/facsimiles/venetus-a/insidefrontcover'>insidefrontcover</option>
-<option value='http://www.homermultitext.org/facsimiles/venetus-a/ir'>ir</option>
-<option value='http://www.homermultitext.org/facsimiles/venetus-a/iv'>iv</option>
+<option value='http://www.homermultitext.org/facsimiles/venetus-a/insidefrontcover'>inside front cover</option>
+<option value='http://www.homermultitext.org/facsimiles/venetus-a/ir'>i recto</option>
+<option value='http://www.homermultitext.org/facsimiles/venetus-a/iv'>i verso</option>
   <option selected value='http://www.homermultitext.org/facsimiles/venetus-a/1r'>1 recto</option>
   <option value='http://www.homermultitext.org/facsimiles/venetus-a/1v'>1 verso</option>
   <option value='http://www.homermultitext.org/facsimiles/venetus-a/2r'>2 recto</option>
@@ -668,11 +668,11 @@ title: Digital publications
 <option value='http://www.homermultitext.org/facsimiles/venetus-a/326v'>326 verso</option>
 <option value='http://www.homermultitext.org/facsimiles/venetus-a/327r'>327 recto</option>
 <option value='http://www.homermultitext.org/facsimiles/venetus-a/327v'>327 verso</option>
-<option value='http://www.homermultitext.org/facsimiles/venetus-a/backfly1r'>backfly1r</option>
-<option value='http://www.homermultitext.org/facsimiles/venetus-a/backfly1v'>backfly1v</option>
-<option value='http://www.homermultitext.org/facsimiles/venetus-a/backfly2r'>backfly2r</option>
-<option value='http://www.homermultitext.org/facsimiles/venetus-a/backfly2v'>backfly2v</option>
-<option value='http://www.homermultitext.org/facsimiles/venetus-a/insidebackcover'>insidebackcover</option>X
+<option value='http://www.homermultitext.org/facsimiles/venetus-a/backfly1r'>back guard page 1 recto</option>
+<option value='http://www.homermultitext.org/facsimiles/venetus-a/backfly1v'>back guard page 1 verso</option>
+<option value='http://www.homermultitext.org/facsimiles/venetus-a/backfly2r'>back guard page 2 recto</option>
+<option value='http://www.homermultitext.org/facsimiles/venetus-a/backfly2v'>back guard page 2 verso</option>
+<option value='http://www.homermultitext.org/facsimiles/venetus-a/insidebackcover'>inside back cover</option>
 </select>
 
 
