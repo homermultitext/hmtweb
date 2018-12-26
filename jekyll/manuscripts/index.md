@@ -13,4 +13,4 @@ Manuscripts we are currently editing:
 -  [Genavensis 44](geneva-44)
 
 
-In addition, we are currently editing some well illustrated [papyri].
+In addition, we are currently editing some well illustrated [papyri](papyri).
