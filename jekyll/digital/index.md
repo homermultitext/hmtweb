@@ -3,6 +3,9 @@ layout: page
 title: Digital publications
 ---
 
+- [Guide to understanding HMT project publications](overview)
+
+
 ### End-user applications
 
 
