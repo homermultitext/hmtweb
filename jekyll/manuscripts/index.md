@@ -7,10 +7,10 @@ Manuscripts we are currently editing:
 
 -  [Venetus A](venetusA)
 -  [Venetus B](venetusB)
--  Marciana 841
+-  [Marciana 841](marciana-841)
 -  [Escorial Y.1.1](upsilon-1-1)
--  Escorial Ω.1.12
--  Genavensis 44
+-  [Escorial Ω.1.12](omega-1-12)
+-  [Genavensis 44](geneva-44)
 
 
 In addition, we are currently editing some well illustrated papyri.

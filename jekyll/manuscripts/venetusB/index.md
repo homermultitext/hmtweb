@@ -13,4 +13,4 @@ The manuscript Marcianus Graecus Z. 453 (= 821), known to Homeric scholars as th
 
 ## Related publications and scholarship
 
-[Articles on the Venetus B from the Homer Multitext blog](http://homermultitext.blogspot.com/search/label/Venetus%20B)
+- [Articles on the Venetus B from the Homer Multitext blog](http://www.homermultitext.org/tag-vb/)
