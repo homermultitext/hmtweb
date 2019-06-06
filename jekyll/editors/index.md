@@ -3,19 +3,17 @@ title: Editing the HMT
 layout: page
 ---
 
-We are currently transferring material from our github web site to this section of [http://www.homermultitext.org](http://www.homermultitext.org).
+- citation with URNs
+- XML markup conventions
+- using text tables to document digital scholarly editions
+- indexing scholion markers (for Venetus B and Upsilon 1.1 manuscripts)
 
 
-## Principles and practice
+## Tools and references
 
 
 
--   [Editorial principles](hmt-editing-principles/).
--   [Editorial practices](hmt-editors-guide/) following these principles
--   [A code library](hmt-textmodel/) in  Scala modeling these principles
-
-
-## Documentation
-
-
-- [documentation](docs/)
+-   The HMT [Image Citation Tool](http://www.homermultitext.org/ict2/)
+-   HMT [URN search](https://interwing.nl/hmt/urn/) (from Leiden team member Mees Gelein)
+-   Authority lists for [personal and place names](https://github.com/homermultitext/hmt-authlists).  File issues here when you need a new person or place.
+-   A [key to reading Erbse](erbse-key/)
