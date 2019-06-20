@@ -4,7 +4,7 @@ layout: page
 ---
 
 - citation with URNs
-- XML markup conventions
+- [XML markup conventions](xml/)
 - using text tables to document digital scholarly editions
 - indexing scholion markers (for Venetus B and Upsilon 1.1 manuscripts)
 
