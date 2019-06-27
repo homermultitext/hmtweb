@@ -9,6 +9,8 @@ layout: page
 - indexing scholion markers (for Venetus B and Upsilon 1.1 manuscripts)
 
 
+
+
 ## Tools and references
 
 
@@ -17,3 +19,7 @@ layout: page
 -   HMT [URN search](https://interwing.nl/hmt/urn/) (from Leiden team member Mees Gelein)
 -   Authority lists for [personal and place names](https://github.com/homermultitext/hmt-authlists).  File issues here when you need a new person or place.
 -   A [key to reading Erbse](erbse-key/)
+
+## Setting up an HMT editing environment
+
+[Software we use](technologies/)

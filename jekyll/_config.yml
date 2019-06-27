@@ -75,7 +75,7 @@ defaults:
       path: manuscripts/index.md
     values:
       menu: true
-      order: 2
+      order: 3
   - scope:
       path: links/index.md
     values:
@@ -85,7 +85,7 @@ defaults:
       path: editors/index.md
     values:
       menu: true
-      order: 3
+      order: 2
   - scope:
       path: digital/index.md
     values:
@@ -96,6 +96,11 @@ defaults:
     values:
       menu: true
       order: 5
+  - scope:
+      path: chsseminar/index.md
+    values:
+      menu: true
+      order: 2
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
