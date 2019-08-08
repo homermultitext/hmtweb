@@ -77,10 +77,10 @@ defaults:
       menu: true
       order: 3
   - scope:
-      path: links/index.md
+      path: topics/index.md
     values:
       menu: true
-      order: 4
+      order: 1
   - scope:
       path: editors/index.md
     values:
