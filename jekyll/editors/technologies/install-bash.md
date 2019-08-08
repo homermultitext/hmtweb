@@ -15,7 +15,7 @@ To use the `bash` shell in OS X, open the **Terminal** application (in the Utili
 
 To install a bash shell:
 
-- go to <https://msysgit.github.io/>
+- go to <https://gitforwindows.org>
 - click on **Download** and follow the installation process
 - set the `Path` environmental variable as follows:
      - open your Control Panel
@@ -25,5 +25,5 @@ To install a bash shell:
      - add `\bin`` to the end of the variable
      - hit **Save** and **OK**
 
- 
+
 To test your shell, open the gitbash terminal, and type `git help`.  If you see a long help message, everything is configured correctly.
