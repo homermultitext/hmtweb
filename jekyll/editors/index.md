@@ -3,23 +3,31 @@ title: Editing the HMT
 layout: page
 ---
 
+
+<!--
 - citation with URNs
 - [XML markup conventions](xml/)
 - using text tables to document digital scholarly editions
-- indexing scholion markers (for Venetus B and Upsilon 1.1 manuscripts)
+
+-->
+
+## Quick start
 
 
+-  Install the [software we use](technologies/)
+- Overview: slides from one-day hackathon at 2019 CHS seminar
+- Cheat sheet for [using the HMT Docker container](hmt-docker/)
 
-
-## Tools and references
-
-
+## Key links
 
 -   The HMT [Image Citation Tool](http://www.homermultitext.org/ict2/)
 -   HMT [URN search](https://interwing.nl/hmt/urn/) (from Leiden team member Mees Gelein)
 -   Authority lists for [personal and place names](https://github.com/homermultitext/hmt-authlists).  File issues here when you need a new person or place.
--   A [key to reading Erbse](erbse-key/)
 
-## Setting up an HMT editing environment
 
-[Software we use](technologies/)
+## More information
+
+-  citation with URNs
+-  the XML markup we use
+-  indexing scholion markers (for manuscripts like Venetus B and Upsilon 1.1)
+-  a [key to reading Erbse](erbse-key/)

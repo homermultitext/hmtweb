@@ -12,7 +12,9 @@ The Homer Multitext project’s 2019 summer seminar at the Center for Hellenic S
 
 ## HMT seminar, 2019
 
--  Schedule:  [week 1](2019/week1/)
+-  Schedule:
+    -  [week 1](2019/week1/)
+    -  [week 2](2019/week2/)
 -  Participants:  [team assignments](2019/teams/)
 -  [Overview of the 2019 seminar](2019/overview/)
 -  [Preflight checklist](2019/preflight/): check that your machine can run the full suite of tools needed to edit manuscripts for the HMT.
@@ -20,7 +22,8 @@ The Homer Multitext project’s 2019 summer seminar at the Center for Hellenic S
 
 ## Other links
 
-
+- [How to document "slurs"](../editors/totaled/slurs/)
+- [Examples of HMT markup](2019/editing-examples/) usage
 - Information for [HMT editors](http://www.homermultitext.org/editors/)
 - Second volume of Dindorf's edition of Venetus B scholia:  [books 13-24](http://www.homermultitext.org/pd-pdfs/Dindorfius1877.pdf)
 
