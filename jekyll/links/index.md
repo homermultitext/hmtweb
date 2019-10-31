@@ -3,10 +3,6 @@ title:  Links
 layout: page
 ---
 
-
-
-
-
 ## Blog topics and tags
 
 
